@@ -1,1 +1,1 @@
-# TP_ICV_Compressor
+# Trabalho Prático 1: Compressão de Imagens
